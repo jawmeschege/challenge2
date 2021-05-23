@@ -1,0 +1,14 @@
+C:\Users\jawiwy\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.csprojAssemblyReference.cache
+C:\Users\jawiwy\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\jawiwy\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.RazorAssemblyInfo.cache
+C:\Users\jawiwy\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.RazorAssemblyInfo.cs
+C:\Users\jawiwy\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.AssemblyInfoInputs.cache
+C:\Users\jawiwy\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.AssemblyInfo.cs
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\bin\Debug\netcoreapp2.1\Challenge2.deps.json
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\bin\Debug\netcoreapp2.1\Challenge2.runtimeconfig.json
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\bin\Debug\netcoreapp2.1\Challenge2.runtimeconfig.dev.json
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\bin\Debug\netcoreapp2.1\Challenge2.dll
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\bin\Debug\netcoreapp2.1\Challenge2.pdb
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.RazorTargetAssemblyInfo.cache
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.dll
+C:\Users\jawiwy\source\repos\challenge2\Challenge2\obj\Debug\netcoreapp2.1\Challenge2.pdb
