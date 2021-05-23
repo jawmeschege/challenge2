@@ -29,6 +29,14 @@ The following folders will be used in this repository to enhance the use of OOP 
  6.Responses
  7.Services
   
+#Branches
+ Master is the main branch
+ Staging testing and QA branch
+ Dev is for development purposes
+  
+All branches are to create pull requests which whill then be merged with dev if approved at development stage and thereafter moved to staging and if confirmed moved to master for production.
+
+ 
  
  
  
