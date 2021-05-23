@@ -35,6 +35,8 @@ The following folders will be used in this repository to enhance the use of OOP 
  Dev is for development purposes
   
 All branches are to create pull requests which whill then be merged with dev if approved at development stage and thereafter moved to staging and if confirmed moved to master for production.
+  
+Staging branch will mainly be used for QA and beta-tests
 
  
  
